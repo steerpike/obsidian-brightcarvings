@@ -14,7 +14,6 @@ We have to figure out:
 - How we can normalise the logs as much as possible to make correlation across captured data useful (ie, normalise what our CDN logs capture)
     
 
-
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFOovyQWXwcti6HEDxasH45tvJwhXmZBuVt9HAfKndxnsprl6VhyfzJiQfBvpJumK-ki8lOcCcL0N8CVEXHjXB8gll6oSCfngs2gG8Qjox8wiMqD9hWqC5VbYmFvYkoC-C2bXo3QODZ0ZeFGYFHZUWAr49?key=DcN3ut3u8zBlQV2zEz-rVg)
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXean4D4DC554Km8yqsBtNgoRXFscktLK12MaISF1lGGmyAnWk-oWt4n7Kp3bxctxnBDhdVfzqq39iAOnnMGJ4vgojCk_rH0KBIdLoSuXptHLqsBaBXv4ebmUGJHLXtdqLCxiSuiS4zuJ1wNbsJToz1Hh6kK?key=DcN3ut3u8zBlQV2zEz-rVg)
