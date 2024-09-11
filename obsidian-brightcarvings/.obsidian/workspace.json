@@ -6,6 +6,7 @@
       {
         "id": "191fa7d0d738280d",
         "type": "tabs",
+        "dimension": 70.01845018450184,
         "children": [
           {
             "id": "3ab6288ee9521cb7",
@@ -13,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "The Big Book of Observability.md",
                 "mode": "source",
                 "source": false
               }
@@ -24,13 +25,18 @@
       {
         "id": "0a445527cfe95f51",
         "type": "tabs",
+        "dimension": 29.981549815498155,
         "children": [
           {
             "id": "13da22357f262d33",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2024-09-11.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -99,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "The Big Book of Observability.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "The Big Book of Observability.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "The Big Book of Observability.md"
               }
             }
           }
@@ -162,6 +168,10 @@
   },
   "active": "3ab6288ee9521cb7",
   "lastOpenFiles": [
+    "2024-09-11.md",
+    "The Big Book of Observability.md",
+    "Notes from Observability Engineering.md",
+    "Untitled.canvas",
     "Welcome.md"
   ]
 }
