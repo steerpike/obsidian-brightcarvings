@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ec7bffa4108d07d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Management cybernetics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-11.md",
+                "file": "Management cybernetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-11.md",
+                "file": "Management cybernetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-11.md"
+                "file": "Management cybernetics.md"
               }
             }
           }
@@ -146,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13da22357f262d33",
+  "active": "ec7bffa4108d07d3",
   "lastOpenFiles": [
+    "The Big Book of Observability.md",
+    "Management cybernetics.md",
     "Notes from Observability Engineering.md",
     "2024-09-11.md",
-    "The Big Book of Observability.md",
     "Untitled.canvas",
     "Welcome.md"
   ]
