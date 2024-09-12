@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "3c6462c834e240b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OP Sprint plan 240.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management cybernetics.md",
+                "file": "OP Sprint plan 240.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Management cybernetics.md",
+                "file": "OP Sprint plan 240.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Management cybernetics.md"
+                "file": "OP Sprint plan 240.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ec7bffa4108d07d3",
+  "active": "3c6462c834e240b4",
   "lastOpenFiles": [
-    "The Big Book of Observability.md",
     "Management cybernetics.md",
+    "OP Sprint plan 240.md",
+    "The Big Book of Observability.md",
     "Notes from Observability Engineering.md",
     "2024-09-11.md",
     "Untitled.canvas",
