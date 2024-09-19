@@ -13,4 +13,7 @@
 | Contribution             | Initiated multiple improvements to tools, processes and system achitecture across squads. Has worn the Tech Lead or Architecture hat                                                          |                                                                                                                                                                      |
 | Subject matter expertise | Subject matter expert in multiple technologies or areas. Proven experience coaching others and raising squad capability                                                                       |                                                                                                                                                                      |
 
-Marc has, since the moment he joined Nine, continually demonstrated an exceptional blend of technical expertise, leadership and mentorship. His impact has been felt well beyond his direct team in improving the strengths and development lifecycle of all teams utilising the compute platform that drives the digital capabilities of Nine.
+Since the moment he joined Nine Marc has continually demonstrated an exceptional blend of technical expertise, leadership and mentorship. His leadership and collaborative nature has been instrumental in the renewal and continued expansion of the underlying compute platform that drives the development capabilities of Nine's feature teams.
+Marc is an expert in the deeply complex foundations of our technology stack, but his ability to help 
+
+His impact has been felt well beyond his direct team in improving the strengths and development lifecycle of all teams utilising the compute platform that drives the digital capabilities of Nine.
