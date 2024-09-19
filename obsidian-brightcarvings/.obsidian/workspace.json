@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declan promotion.md",
+                "file": "Marc promotion.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declan promotion.md",
+                "file": "Marc promotion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declan promotion.md",
+                "file": "Marc promotion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declan promotion.md"
+                "file": "Marc promotion.md"
               }
             }
           }
@@ -197,8 +197,8 @@
   },
   "active": "7a370cc32df5bb1d",
   "lastOpenFiles": [
-    "Marc promotion.md",
     "Declan promotion.md",
+    "Marc promotion.md",
     "OP Sprint plan 240.md",
     "Management cybernetics.md",
     "The Big Book of Observability.md",

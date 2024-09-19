@@ -1,3 +1,5 @@
+#people
+
 |                          |                                                                                                                                                                                               |                                                                                                                                                                      |
 | ------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Knowledge acquisition    | Proactive self-learning. Provides thought leadership and coaching across squads. Actively works to increase capability across squads                                                          | Subject matter expert that actively looks to share his knowledge and experience across teams and has been instrumental in multiple individuals and teams upskilling. |
