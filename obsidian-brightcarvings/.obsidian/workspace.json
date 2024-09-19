@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "7a370cc32df5bb1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Declan promotion.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Marc promotion.md",
+                "file": "Declan promotion.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Marc promotion.md",
+                "file": "Declan promotion.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Marc promotion.md"
+                "file": "Declan promotion.md"
               }
             }
           }
@@ -183,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "0321cf970415e8d0",
+  "active": "7a370cc32df5bb1d",
   "lastOpenFiles": [
-    "OP Sprint plan 240.md",
     "Marc promotion.md",
+    "Declan promotion.md",
+    "OP Sprint plan 240.md",
     "Management cybernetics.md",
     "The Big Book of Observability.md",
     "Notes from Observability Engineering.md",
