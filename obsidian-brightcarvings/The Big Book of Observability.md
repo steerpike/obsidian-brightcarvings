@@ -6,13 +6,9 @@ Even if we turned as much of the existing logs as we can into metrics to try and
 We have to figure out:
 
 - How to process enormous amounts of data
-    
 - What our data retention policy for that data is as a base and how teams might be able to change that based on need?
-    
 - How do teams interact with the collected data?
-    
 - How we can normalise the logs as much as possible to make correlation across captured data useful (ie, normalise what our CDN logs capture)
-    
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXdFOovyQWXwcti6HEDxasH45tvJwhXmZBuVt9HAfKndxnsprl6VhyfzJiQfBvpJumK-ki8lOcCcL0N8CVEXHjXB8gll6oSCfngs2gG8Qjox8wiMqD9hWqC5VbYmFvYkoC-C2bXo3QODZ0ZeFGYFHZUWAr49?key=DcN3ut3u8zBlQV2zEz-rVg)
 
@@ -21,102 +17,60 @@ We have to figure out:
 ## Issues:
 
 - Observability dashboards all over the place
-    
-- Using, but also avoiding the provided platform(s)
-    
+- Using, but also avoiding the provided platforms
 - Engineer’s working on undifferentiated heavy lifting
-    
 - Alert spam
-    
 - Observability not helping in Incidents
-    
 - Over reliance on Logging
-    
 - Collect everything mentality
-    
-- Varying maturity levels
-    
+- Varying maturity levels    
 - Scaling is costly
-    
 
 ## What do we want?
 
 - We want to reduce the number of platforms we are reliant on
-    
 - We want to reduce cost
-    
 - Reduce complexity for users
-    
 - We want to adhere to open standards and not subject ourselves to vendor lock-in
-    
 - We want to provide solutions for both low and high maturity teams working towards observability
-    
 
   
 
 ## Principles of Observability
 
 - You shouldn’t have to be an expert in a system in order to be able to debug it
-    
 -   
-    
 
 ## Questions
 
 1. What does good observability look like? What’s our north star?
-    
 2. What if we burnt the whole thing down and started from scratch?
-    
-
-- What if we just went with New Relic? How do we decide?
-    
-- Are there parts of our existing stack we could replace with SaaS/PaaS products? Which ones? How?
-    
+	- What if we just went with New Relic? How do we decide?
+	- Are there parts of our existing stack we could replace with SaaS/PaaS products? Which ones? How?
 
 3. How do we currently manage and process our existing CDN logs for all our CDNs (fastly, cloudfront, akamai)
-    
-
 - How do we manage the sheer quantity of logs we receive? 
-    
 - How much data do we get per day?
-    
 - How much does it cost us to run, maintain and store?
-    
 - How long do we store data for?
-    
 - What is the right method for processing and storing the amount of data we have?
-    
 
 4. What are the baseline metrics and observability posture we expect on every service deployed to production? How do developers create the dashboards we expect of them?
-    
 
 - Initially scope this to online serving systems that are interested in a request/response lifecycle for a user (so ignore offline processing/batch jobs)
-    
 - Start with the four golden signals
-    
-
 - Latency (time taken to serve a request)
-    
 - Traffic (how much demand is placed on your system)
-    
 - Errors (rate of requests that are failing)
-    
 - Saturation (how “full” your service is)
-    
 
 5. How do application teams get started with adding tracing to their applications?
-    
-
-  
 
 ## Existing System
 
 Architecture document here:
 
 [https://drive.google.com/file/d/1qc5qO1enhMeajNVmSqHsnIZGGa3FZzgS/view?ts=66a994e8](https://drive.google.com/file/d/1qc5qO1enhMeajNVmSqHsnIZGGa3FZzgS/view?ts=66a994e8)
-
-  
-  
 
 ## Resources
 
