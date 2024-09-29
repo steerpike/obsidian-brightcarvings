@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Management cybernetics.md",
+                "file": "Nine Platform Engineering/Health issues slack.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management cybernetics.md",
+                "file": "Nine Platform Engineering/Health issues slack.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Management cybernetics.md",
+                "file": "Nine Platform Engineering/Health issues slack.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Management cybernetics.md"
+                "file": "Nine Platform Engineering/Health issues slack.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "cd013b4f5babbc63",
   "lastOpenFiles": [
+    "Management cybernetics.md",
     "Hospitals are interesting places.md",
     "What we believe about development.md",
     "2024-09-11.md",
