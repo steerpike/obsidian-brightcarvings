@@ -4,23 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "6ade436d0a082fd6",
+        "id": "ffbd3637821febf0",
         "type": "tabs",
         "children": [
           {
-            "id": "e2196c49b257b0a4",
+            "id": "513a626721748ffd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hospitals are interesting places.md",
+                "file": "2024-09-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c02556fdc2beba7d",
+            "id": "a85a001c1d465fff",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,21 +159,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c02556fdc2beba7d",
+  "active": "a85a001c1d465fff",
   "lastOpenFiles": [
-    "Nine Platform Engineering/Health issues slack.md",
+    "What we believe about development.md",
+    "Management cybernetics.md",
     "2024-09-29.md",
     "Hospitals are interesting places.md",
     "Notes from Observability Engineering.md",
-    "2024-09-28.md",
-    "Nine Platform Engineering",
+    "2024-09-29.md",
     "conflict-files-obsidian-git.md",
-    "2024-09-11.md",
     "Nine Platform Engineering/The Big Book of Observability.md",
     "Nine Platform Engineering/OP Sprint plan 240.md",
-    "Nine Platform Engineering/Declan promotion.md",
-    "Management cybernetics.md",
     "Nine Platform Engineering/Marc promotion.md",
+    "Nine Platform Engineering/Health issues slack.md",
+    "Nine Platform Engineering/Declan promotion.md",
+    "Nine Platform Engineering",
+    "2024-09-28.md",
+    "The Big Book of Observability.md",
+    "2024-09-11.md",
+    "OP Sprint plan 240.md",
+    "Declan promotion.md",
+    "Marc promotion.md",
     "Untitled.canvas",
     "Welcome.md"
   ]
