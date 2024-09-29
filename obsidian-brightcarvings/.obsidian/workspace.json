@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "3d21414b30b7d482",
+    "id": "75f700fe3e4754f0",
     "type": "split",
     "children": [
       {
-        "id": "ffbd3637821febf0",
+        "id": "d7feb329027b2ddb",
         "type": "tabs",
         "children": [
           {
-            "id": "513a626721748ffd",
+            "id": "cd013b4f5babbc63",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-09-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a85a001c1d465fff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-09-29.md",
+                "file": "Management cybernetics.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "b439715d90807ab5",
+    "id": "dd67f7d9327c6182",
     "type": "split",
     "children": [
       {
-        "id": "6e757b118268d2ab",
+        "id": "e9181fc95f305180",
         "type": "tabs",
         "children": [
           {
-            "id": "fe461ea133cb8adb",
+            "id": "714addb9efca635a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,7 +43,7 @@
             }
           },
           {
-            "id": "906ee390be894cdb",
+            "id": "834f890e1a3a4296",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "5c437611cb7ff1ef",
+            "id": "43e3eb1ee80c53c0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,20 +72,20 @@
     "width": 300
   },
   "right": {
-    "id": "60fa1f673af2dd0b",
+    "id": "a10bbf3b06ae7a34",
     "type": "split",
     "children": [
       {
-        "id": "c1669729320e6490",
+        "id": "0182d1a5b9df05d4",
         "type": "tabs",
         "children": [
           {
-            "id": "3614eb53e8027efc",
+            "id": "667a44997c44a769",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-09-29.md",
+                "file": "Management cybernetics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "c6e559e3655e2ec0",
+            "id": "42eee0cecc8297d6",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-09-29.md",
+                "file": "Management cybernetics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "9e0ad679bbfc8a28",
+            "id": "17c93c552409b4fc",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,12 +120,12 @@
             }
           },
           {
-            "id": "922311d17926779f",
+            "id": "84ac847eeea618dc",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-09-29.md"
+                "file": "Management cybernetics.md"
               }
             }
           }
@@ -154,33 +141,16 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "a85a001c1d465fff",
+  "active": "cd013b4f5babbc63",
   "lastOpenFiles": [
-    "What we believe about development.md",
-    "Management cybernetics.md",
-    "2024-09-29.md",
     "Hospitals are interesting places.md",
-    "Notes from Observability Engineering.md",
-    "2024-09-29.md",
-    "conflict-files-obsidian-git.md",
-    "Nine Platform Engineering/The Big Book of Observability.md",
-    "Nine Platform Engineering/OP Sprint plan 240.md",
-    "Nine Platform Engineering/Marc promotion.md",
-    "Nine Platform Engineering/Health issues slack.md",
-    "Nine Platform Engineering/Declan promotion.md",
-    "Nine Platform Engineering",
-    "2024-09-28.md",
-    "The Big Book of Observability.md",
+    "What we believe about development.md",
     "2024-09-11.md",
-    "OP Sprint plan 240.md",
-    "Declan promotion.md",
-    "Marc promotion.md",
-    "Untitled.canvas",
-    "Welcome.md"
+    "2024-09-29.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
