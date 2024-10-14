@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Management cybernetics.md",
+                "file": "2024-10-14.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management cybernetics.md",
+                "file": "2024-10-14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Management cybernetics.md",
+                "file": "2024-10-14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Management cybernetics.md"
+                "file": "2024-10-14.md"
               }
             }
           }
@@ -161,8 +161,9 @@
   },
   "active": "a85a001c1d465fff",
   "lastOpenFiles": [
-    "What we believe about development.md",
     "Management cybernetics.md",
+    "2024-10-14.md",
+    "What we believe about development.md",
     "Hospitals are interesting places.md",
     "Notes from Observability Engineering.md",
     "2024-09-29.md",
