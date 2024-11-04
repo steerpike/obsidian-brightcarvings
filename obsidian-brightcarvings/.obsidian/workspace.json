@@ -8,27 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "513a626721748ffd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-09-29.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a85a001c1d465fff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-10-14.md",
+                "file": "Hospitals are interesting places.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Hospitals are interesting places"
+            }
+          },
+          {
+            "id": "c03fde87c566fae3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.5"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.5"
             }
           }
         ],
@@ -52,7 +54,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +71,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +81,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-10-14.md",
+                "file": "Hospitals are interesting places.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +114,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Hospitals are interesting places"
             }
           },
           {
@@ -115,10 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-10-14.md",
+                "file": "Hospitals are interesting places.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Hospitals are interesting places"
             }
           },
           {
@@ -129,7 +141,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +152,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-10-14.md"
-              }
+                "file": "Hospitals are interesting places.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Hospitals are interesting places"
             }
           }
         ]
@@ -154,24 +170,23 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "a85a001c1d465fff",
+  "active": "c03fde87c566fae3",
   "lastOpenFiles": [
-    "Management cybernetics.md",
     "2024-10-14.md",
-    "What we believe about development.md",
+    "conflict-files-obsidian-git.md",
     "Hospitals are interesting places.md",
+    "Nine Platform Engineering/Health issues slack.md",
+    "Management cybernetics.md",
+    "What we believe about development.md",
     "Notes from Observability Engineering.md",
     "2024-09-29.md",
-    "conflict-files-obsidian-git.md",
     "Nine Platform Engineering/The Big Book of Observability.md",
     "Nine Platform Engineering/OP Sprint plan 240.md",
     "Nine Platform Engineering/Marc promotion.md",
-    "Nine Platform Engineering/Health issues slack.md",
     "Nine Platform Engineering/Declan promotion.md",
     "Nine Platform Engineering",
     "2024-09-28.md",
