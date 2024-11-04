@@ -1,0 +1,1 @@
+When I did my first stint as a manager I realised that as I did less and less coding it became harder and harder to understand what the difference between me as an Engineering Manager was compared to say a Project Manager or Product Manager. 
