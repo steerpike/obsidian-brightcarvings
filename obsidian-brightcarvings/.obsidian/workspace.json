@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nine Platform Engineering/Health issues slack.md",
+                "file": "What we believe about development.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Nine Platform Engineering/Health issues slack.md",
+                "file": "What we believe about development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Nine Platform Engineering/Health issues slack.md",
+                "file": "What we believe about development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Nine Platform Engineering/Health issues slack.md"
+                "file": "What we believe about development.md"
               }
             }
           }
@@ -147,6 +147,7 @@
   },
   "active": "cd013b4f5babbc63",
   "lastOpenFiles": [
+    "Nine Platform Engineering/Health issues slack.md",
     "Management cybernetics.md",
     "Hospitals are interesting places.md",
     "What we believe about development.md",
