@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "ffd9efd329573f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The map is not the territory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 238.5
   },
   "right": {
     "id": "a10bbf3b06ae7a34",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "What's next after Agile?.md",
+                "file": "The map is not the territory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "What's next after Agile?.md",
+                "file": "The map is not the territory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "What's next after Agile?.md"
+                "file": "The map is not the territory.md"
               }
             }
           }
@@ -144,10 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "06d5a82ff45ff83c",
+  "active": "ffd9efd329573f55",
   "lastOpenFiles": [
-    "Hospitals are interesting places.md",
     "What's next after Agile?.md",
+    "The map is not the territory.md",
+    "Hospitals are interesting places.md",
     "Rants about development and management.md",
     "What kind of manager do I want to be.md",
     "Management cybernetics.md",
