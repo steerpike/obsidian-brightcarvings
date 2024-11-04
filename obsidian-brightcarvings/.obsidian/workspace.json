@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -147,15 +146,15 @@
   },
   "active": "06d5a82ff45ff83c",
   "lastOpenFiles": [
-    "Management cybernetics.md",
+    "Hospitals are interesting places.md",
     "What's next after Agile?.md",
-    "What kind of manager do I want to be.md",
     "Rants about development and management.md",
+    "What kind of manager do I want to be.md",
+    "Management cybernetics.md",
     "What we believe about development.md",
     "Rachel by the Bay on Management metrics.md",
     "Notes from Observability Engineering.md",
     "Nine Platform Engineering/Health issues slack.md",
-    "Hospitals are interesting places.md",
     "2024-09-11.md",
     "2024-09-29.md",
     "conflict-files-obsidian-git.md"
