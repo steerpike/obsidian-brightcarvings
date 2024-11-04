@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "966f7e62e869d6fe",
+            "id": "06d5a82ff45ff83c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Management cybernetics.md",
+                "file": "What's next after Agile?.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Management cybernetics.md",
+                "file": "What's next after Agile?.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Management cybernetics.md",
+                "file": "What's next after Agile?.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Management cybernetics.md"
+                "file": "What's next after Agile?.md"
               }
             }
           }
@@ -145,15 +145,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "966f7e62e869d6fe",
+  "active": "06d5a82ff45ff83c",
   "lastOpenFiles": [
+    "Management cybernetics.md",
+    "What's next after Agile?.md",
     "What kind of manager do I want to be.md",
     "Rants about development and management.md",
     "What we believe about development.md",
     "Rachel by the Bay on Management metrics.md",
     "Notes from Observability Engineering.md",
     "Nine Platform Engineering/Health issues slack.md",
-    "Management cybernetics.md",
     "Hospitals are interesting places.md",
     "2024-09-11.md",
     "2024-09-29.md",
