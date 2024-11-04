@@ -1,4 +1,4 @@
-#teams 
+#teams [[What kind of manager do I want to be]]
 There is a small number of essential underlying building blocks. These can be summarised as: “the black box”; POSIWID (“the purpose of a system is what it does”); and the law of requisite variety.
 
 The first of these is about the behaviour of a complex system.  Often you can’t tell what a complex system is doing, and trying to take it apart (as if it is, instead, a complicated system) will not help you. Therefore you have to treat it as a black box. You know what the inputs are and you know what the outputs are, even if you don’t know what happens between those two points.
