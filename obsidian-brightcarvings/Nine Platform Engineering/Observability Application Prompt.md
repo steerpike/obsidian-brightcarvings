@@ -1,0 +1,5 @@
+Create the following set of applications that work with each other.
+First create a client application using next.js that has a single landing page that displays as video that can be played.
+The client application, before displaying the video makes a call to an identity service which is a separate application made in nest.js
+the nest.js Identity application has a single API call which indicates a boolean for if the user is logged in or not. It accepts a mock parameter which can be used to force the API to return true or false for testing purposes.
+Once the client has determined if the user is currently logged in or not it makes a call to a third application which is also a nest.js application that provides 1 video url to stream if the user is logged in and a second streaming url if the user is not logged in.
