@@ -16,9 +16,11 @@ Continue the work started with Services into a new team
 Pros
 - Gets us on the board with Video
 - Gets us starting to deal with logs
+- It's currently a pretty significant running cost
 Cons
 - Video hardest team to understand
-
+- Absolutely no idea if we can actually impact the costs significantly
+- Terrifyingly complex for a reduced team
 ### Embed with a Publishing team to improve existing telemetry
 Pros
 - Leverages Stu very well
