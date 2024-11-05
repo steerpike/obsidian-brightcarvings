@@ -1,6 +1,6 @@
 Create the following set of applications that work with each other.
 Create a folder called simple-app that itself contains three separate applications
-The first is a client application called simple-app-client using next.js that has a single landing page that displays as video that can be played.
+The first is a client application called simple-app-client using next.js that has a single landing page that displays as video that can be played using a react video player.
 The second app is called simple-app-identity and the client application, before displaying the video makes a call to an identity service which is a separate application made in nest.js
 The nest.js Identity application has a single API call which returns a randomly generated NUID that represents the publicly identifiable id for a user for if the user is logged in or returns 0 if not. It accepts a mock parameter which can be used to force the API to return a NUID or 0 for testing purposes. The NUID used should be selected randomly from an imported static json file within the identity project.
 Once the client has determined if the user is currently logged in or not it makes a call to a third application which is also a nest.js application called simple-app-api that provides 1 video url to stream if the user is logged in and a second streaming url if the user is not logged in.
