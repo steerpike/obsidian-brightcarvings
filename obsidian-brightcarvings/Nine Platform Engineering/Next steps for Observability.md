@@ -14,9 +14,12 @@ Continue the work started with Services into a new team
 
 ### Replace Video's Opensearch cluster with Loki
 Pros
-- Get's us on the board with Video
+- Gets us on the board with Video
+- Gets us starting to deal with logs
 Cons
 - Video hardest team to understand
 
 ### Embed with a Publishing team to improve existing telemetry
+Pros
+- Leverages Stu very well
 
