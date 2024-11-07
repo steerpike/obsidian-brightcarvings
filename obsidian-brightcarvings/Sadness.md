@@ -1,0 +1,3 @@
+I feel naive. I feel like the beliefs I built a large part of my life around are actually meaningless and that it's very hard to see a positive direction for the world right now.
+I'm retreating from media. I think it's the only way I can maintain my own sanity over the coming months and years. I will try to expand my sphere of care once again, but for now I need to reflect inwards and bring my closest loved ones into an embrace that can sustain us all through what I fear is coming.
+I'm furious too. That there is no righteousness in the World. That those that deserve elevation get nothing and those that deserve condemnation get everything.
