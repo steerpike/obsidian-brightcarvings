@@ -1,3 +1,4 @@
+#observability 
 For observability and monitoring, a foundational understanding of specific math concepts can enhance your ability to interpret data, identify patterns, and understand performance trends. Here’s a breakdown of helpful areas to focus on and accessible resources for each:
 
 ### 1. **Basic Statistics**
