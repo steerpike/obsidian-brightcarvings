@@ -1,5 +1,8 @@
 Create the following set of applications that work with each other.
-First create a client application using next.js that has a single landing page that displays as video that can be played.
-The client application, before displaying the video makes a call to an identity service which is a separate application made in nest.js
-the nest.js Identity application has a single API call which indicates a boolean for if the user is logged in or not. It accepts a mock parameter which can be used to force the API to return true or false for testing purposes.
-Once the client has determined if the user is currently logged in or not it makes a call to a third application which is also a nest.js application that provides 1 video url to stream if the user is logged in and a second streaming url if the user is not logged in.
+Create a folder called simple-app that itself contains three separate applications
+The first is a client application called simple-app-client using next.js that has a single landing page that displays as video that can be played using a react video player.
+The second app is called simple-app-identity and the client application, before displaying the video makes a call to an identity service which is a separate application made in nest.js
+The nest.js Identity application has a single API call which returns a randomly generated NUID that represents the publicly identifiable id for a user for if the user is logged in or returns 0 if not. It accepts a mock parameter which can be used to force the API to return a NUID or 0 for testing purposes. The NUID used should be selected randomly from an imported static json file within the identity project.
+Once the client has determined if the user is currently logged in or not it makes a call to a third application which is also a nest.js application called simple-app-api that provides 1 video url to stream if the user is logged in and a second streaming url if the user is not logged in.
+Add a README in the simple-app root directory that describes the overall project and how the various applications within it relate and work with each other. Include a d2 diagram that details the relationship between the 3 applications.
+Make sure the code in the applications maintains best practices, is clean and maintainable while being easy to follow and understand. Follow the recommend practices of next and nest application where appropriate.

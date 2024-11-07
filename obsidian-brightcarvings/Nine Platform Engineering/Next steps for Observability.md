@@ -8,7 +8,6 @@ Pros:
 Cons
 - Software engineering not Platform
 - Dependent on Services buy-in
-
 ### Convert Identity (or Curation Tools) team to Otel
 Continue the work started with Services into a new team
 
