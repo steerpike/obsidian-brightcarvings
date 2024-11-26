@@ -1,9 +1,11 @@
 
 ## Tasks
-
+```tasks
+not done
+```
 - [ ]
 
 ## Completed Log
-\```
-done on {{date:YYYY-MM-DD}}
-\```
+```tasks
+done on today
+`````
