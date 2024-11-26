@@ -3,7 +3,6 @@
 ```tasks
 not done
 ```
-- [ ]
 
 ## Completed Log
 ```tasks
