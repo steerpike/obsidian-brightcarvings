@@ -1,4 +1,5 @@
 {
   "autorun": true,
-  "template": "Templates/Daily template"
+  "template": "Templates/Daily template",
+  "folder": "Daily Stream"
 }
