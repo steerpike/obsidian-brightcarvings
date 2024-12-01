@@ -1,0 +1,2 @@
+My darling Fionn,
+I'm so proud of you, my beautiful boy who is so quickly becoming a man. I love your curious mind and your thoughtfulness. I love your wicked humour and fantastic stories. I have had such pleasure in seeing you grow and thrive in your years through Aurora and under Eva's guidance. Your close friends and peers who have been such a great support all this time.
