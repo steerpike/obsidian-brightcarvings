@@ -1,0 +1,2 @@
+#fullstack
+The idea is to find [[Ideal interviews to start the Fullstack]] that I think are worthwhile and then interview direct reports down the company hierarchy discussing how they get and process information from their managers until the point where I can interview an individual contributor who writes code for the majority of their job description
